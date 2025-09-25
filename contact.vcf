@@ -1,6 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Michaux Dimitri
-TEL;TYPE=CELL:0786269824
-EMAIL:3dlabcustom@gmail.com
+N:VOIZEUX;Noël;;;
+FN:Noël VOIZEUX
+TEL;TYPE=work,voice:0380526337
+TEL;TYPE=cell,voice:0684822857
+EMAIL;TYPE=work:voizeux@ppg.com
 END:VCARD
