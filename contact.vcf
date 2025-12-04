@@ -1,8 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:VOIZEUX;Noël;;;
-FN:Noël VOIZEUX
-TEL;TYPE=work,voice:0380526337
-TEL;TYPE=cell,voice:0684822857
-EMAIL;TYPE=work:voizeux@ppg.com
+N:Michaux;Dimitri;;;
+FN:DIMITRI MICHAUX
+TEL;TYPE=cell,voice:0786269824
+EMAIL;TYPE=work:Dimitri89400@hotmail.com
 END:VCARD
